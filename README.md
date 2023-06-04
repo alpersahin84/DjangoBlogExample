@@ -1,2 +1,2 @@
 ﻿# DjangoBlogExample
-This is afull workşng django example.
+This is a full workşng django example.
